@@ -1,6 +1,10 @@
+<img align="center" alt="Coding" width="400" src="https://media-exp1.licdn.com/dms/image/C5616AQEvIsItvljE5A/profile-displaybackgroundimage-shrink_200_800/0/1615906843500?e=1639008000&v=beta&t=bCXtPrfNXwiUxZ_8zoxklnKXikv-dzhof-ACAaW-Frs">
+<br>
 <p align="left")(img src="https://komarev.com/ghpvc/?username=khushboogoel01&label=Profile+views&color=129e00&style=plastic" alt="ahadalichowdhury" /></p>
-<h1 align="center">Hi 👋, I'm S. M. Ahad Ali Chowdhury</h1> <br>
-<img align="right" alt="Coding" width="400" src="https://media-exp1.licdn.com/dms/image/C5616AQEvIsItvljE5A/profile-displaybackgroundimage-shrink_200_800/0/1615906843500?e=1639008000&v=beta&t=bCXtPrfNXwiUxZ_8zoxklnKXikv-dzhof-ACAaW-Frs">
+<br>
+
+<h1 align="center">Hi 👋, I'm S. M. Ahad Ali Chowdhury</h1>
+
 
 
 <h3 align="center">Programmer || developer || Learner</h3>
