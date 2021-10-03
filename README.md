@@ -11,8 +11,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahadalichowdhury&label=Profile%20views&color=0e75b6&style=flat" alt="ahadalichowdhury" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahadalichowdhury" alt="ahadalichowdhury" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/homo_ant" target="blank"><img src="https://img.shields.io/twitter/follow/homo_ant?logo=twitter&style=for-the-badge" alt="homo_ant" /></a> </p>
 
 - 💬 Ask me about **react js , node js, html, css, bootstrap , tailwind**
