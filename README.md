@@ -1,7 +1,4 @@
-<img align="center" alt="Coding" width="1200" src="https://media-exp1.licdn.com/dms/image/C5616AQEvIsItvljE5A/profile-displaybackgroundimage-shrink_200_800/0/1615906843500?e=1639008000&v=beta&t=bCXtPrfNXwiUxZ_8zoxklnKXikv-dzhof-ACAaW-Frs">
-<br>
-<p align="left")(img src="https://komarev.com/ghpvc/?username=khushboogoel01&label=Profile+views&color=129e00&style=plastic" alt="ahadalichowdhury" /></p>
-<br>
+
 
 <h1 align="center">Hi 👋, I'm S. M. Ahad Ali Chowdhury</h1>
 
