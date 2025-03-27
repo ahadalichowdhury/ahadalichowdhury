@@ -31,7 +31,6 @@
 <a href="https://reactjs.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgPfxHpyMJF2B6lWSnHqYk5hf9ViRcitHwr0Q7Vhn36caug1xxqK9lcpAAxh-MgMFl4b8&usqp=CAU" alt="react" width="40" height="40"/> </a> </p>
 <!-- <a href="https://reactjs.org/" target="_blank"> <img src="https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x630_crop_center-center_82_none/speeding-up-tailwind-css-builds2.png?mtime=1602603359" alt="tailwind" width="40" height="40"/> </a> </p> -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahadalichowdhury&show_icons=true&locale=en&layout=compact" alt="ahadalichowdhury" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahadalichowdhury&show_icons=true&locale=en" alt="ahadalichowdhury" /></p>
 
